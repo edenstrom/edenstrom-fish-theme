@@ -3,7 +3,7 @@
 
 ## Screenshot
 
-![screenshot](https://raw.githubusercontent.com/edenstrom/edenstrom-fish-theme/master/README.md)
+![screenshot](https://raw.githubusercontent.com/edenstrom/edenstrom-fish-theme/master/screenshot.png)
 
 ## Install
 

@@ -1,6 +1,10 @@
 #### My theme for fish
 > A theme for Fish.
 
+## Screenshot
+
+![screenshot](https://raw.githubusercontent.com/edenstrom/edenstrom-fish-theme/master/README.md)
+
 ## Install
 
 1. Just download it and do something with it.
